@@ -1,4 +1,4 @@
-## Hi I'm Dmytro Havrysh 👋
+## Hi I'm Dmytro 👋
 
 Junior Fullstack Developer Javascript | React | Next | Node.js  
 
