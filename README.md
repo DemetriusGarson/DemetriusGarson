@@ -2,7 +2,7 @@
 
 Junior Fullstack Developer Javascript | React | Next | Node.js  
 
-Junior Fullstack Developer with practical experience building modern web applications using React, Next.js, TypeScript, and JavaScript. Experienced in state management with TanStack Query and Zustand, REST API integration, and Next.js client and server-side logic. Familiar with Node.js, Express, MongoDB, and Mongoose, including CRUD operations, JWT authentication, validation, error handling, pagination, filtering, and sorting. Comfortable working with Git and GitHub in collaborative projects.
+Junior Fullstack Developer with practical experience building modern web applications using React, Next.js, TypeScript, JavaScript, and Node.js. Experienced in developing frontend applications with REST API integration, TanStack Query, and Zustand, as well as backend applications with Node.js, Express, MongoDB, and Mongoose. Developed REST APIs with authentication, CRUD operations, validation, middleware, error handling, pagination, filtering, and sorting. Comfortable working with Git and GitHub in collaborative projects.
 
 <!--
 **DemetriusGarson/DemetriusGarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
