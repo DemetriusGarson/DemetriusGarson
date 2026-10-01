@@ -13,7 +13,7 @@ HTML | CSS | JavaScript | TypeScript | React | Next.js | Node.js
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 
 #### 📫 How to reach me
-[LinkedIn](https://linkedin.com/in/dmytro-havrysh-zp) | [Telegram](https://t.me/DemetriusGarson) | Email: [demetriusgarson@gmail.com](mailto:demetriusgarson@gmail.com)
+[LinkedIn](https://linkedin.com/in/dmytro-havrysh-zp) | [Telegram](https://t.me/DemetriusGarson) | [demetriusgarson@gmail.com](mailto:demetriusgarson@gmail.com)
 <!--
 **DemetriusGarson/DemetriusGarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
