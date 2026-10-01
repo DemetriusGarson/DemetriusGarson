@@ -8,10 +8,8 @@ Junior Fullstack Developer with practical experience building modern web applica
 
 HTML | CSS | JavaScript | TypeScript | React | Next.js | Node.js 
 
-🗣️ Languages
-
+#### 🗣️ Languages
 ![English](https://img.shields.io/badge/English-B1-blue?style=flat-square)
-
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
 <!--
 **DemetriusGarson/DemetriusGarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
