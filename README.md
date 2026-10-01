@@ -1,4 +1,10 @@
-## Hi I', Dmytro Havrysh 👋
+## Hi I'm Dmytro Havrysh 👋
+
+Junior Fullstack Developer Javascript | React | Next | Node.js  
+
+Frontend Developer with practical experience building modern, responsive web applications using React, Next.js, TypeScript, and JavaScript. 
+Proficient in client and server-side logic in Next.js, REST API integration, JWT authentication (Access/Refresh tokens), and state management 
+using TanStack Query and Zustand. Experienced in collaborative development using Git/GitHub workflows. 
 
 <!--
 **DemetriusGarson/DemetriusGarson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
